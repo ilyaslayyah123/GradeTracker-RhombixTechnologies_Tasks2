@@ -93,7 +93,7 @@ Allow the user to edit or delete previously entered subjects.
 This project is licensed under the MIT License - see the LICENSE file for details.
 # Contact
 For questions or feedback, feel free to reach out via email.
-1. **Repository URL:** .
+1. **Repository URL:** https://github.com/ilyaslayyah123/GradeTracker-RhombixTechnologies_Tasks2.git
 2. **Email Contact:** ilyaslayyah786@gmail.com 
 
 
